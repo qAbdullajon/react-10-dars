@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "SG S24 ultra",
+      "price": "1",
+      "color": "Black",
+      "id": "2"
+    },
+    {
+      "name": "Smart Watch",
+      "price": "500",
+      "color": "blue",
+      "id": "3"
+    },
+    {
+      "name": "Macbook pro",
+      "price": "1800",
+      "color": "Kok",
+      "id": "4"
+    },
+    {
+      "name": "15 Pro max",
+      "price": "1300",
+      "color": "Red",
+      "id": "2f65"
+    }
+  ]
+}
